@@ -1,4 +1,4 @@
-def ex1 (): 
+def ex1(): 
     print("Quanto é 1 + 1?")
     print("a) 2")
     print("b) 3")
@@ -28,7 +28,7 @@ def ex1 ():
 
     print("Obrigado por participar do teste!")
 
-def ex2 ():
+def ex2():
     print("Digite os tamanhos dos lados de um triângulo:")
     lados = []
     for i in range(3):
